@@ -1,0 +1,2 @@
+.square{justify-content:center;align-items:center;display:flex;font-family:Arial;font-size:3rem;font-weight:700;border:1px solid #c9c9c9}.square.white{background-color:#fbfbfb}.square.black{background-color:#6f84ef}.square:not(.static){cursor:pointer}.map{background:#c9c9c9;display:inline-block;border:5px solid #c9c9c9}.grid{display:grid;grid-template-columns:repeat(32,15px);grid-template-rows:repeat(32,15px)}
+/*# sourceMappingURL=main.807b0fdd.chunk.css.map */
